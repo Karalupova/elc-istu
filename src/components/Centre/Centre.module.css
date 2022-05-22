@@ -1,0 +1,60 @@
+.centre{
+    display: grid;
+    grid-template-rows:  180px 180px 30 px;
+    grid-template-columns:  30px 460px 460px  ;
+    grid-gap: 120px;
+    margin-bottom: 15px;
+    border: none;
+    border-bottom:  1px solid #227893;
+
+}
+
+
+.item {
+text-align: center;
+line-height: 1.5;
+    margin-top: 10px ;
+
+
+
+
+}
+
+
+.itemtitle {
+    background-color: #ECF0F1;
+    height: 100px;
+    font-size: 14pt;
+}
+
+.title {
+    font-size: 23pt;
+    line-height: 2;
+
+}
+
+.titles {
+    font-size: 20pt;
+    line-height: 2;
+    border: none;
+    border-bottom: 1px solid #227893;
+}
+
+.name {
+    font-size: 20pt;
+}
+
+.tasks {
+font-weight: bold;
+}
+
+.post {
+    font-size: 15pt;
+}
+
+.description {
+    line-height: 1;
+    font-style: oblique;
+
+
+}

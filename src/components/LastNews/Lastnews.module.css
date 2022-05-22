@@ -1,0 +1,15 @@
+.lastnews {
+    display: grid;
+    grid-template-rows: 80px 80px 80px 80px;
+    grid-template-columns: 70px 800px;
+
+
+}
+
+.name {
+    font-size: 15pt;
+}
+
+.item {
+
+}

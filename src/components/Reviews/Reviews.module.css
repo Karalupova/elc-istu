@@ -1,0 +1,17 @@
+.review{
+    background-color: #B8C2E5;
+    color: white;
+}
+
+.wrapper {
+    display: grid;
+    grid-template-rows: 270px 170px 250px;
+    grid-template-columns: 600px 600px;
+    grid-gap: 1rem;
+}
+
+
+.title {
+
+}
+

@@ -1,0 +1,29 @@
+.login {
+    box-sizing: border-box;
+    width:300px;
+
+}
+
+.login input {
+    padding:10px;
+    margin: 10px;
+    border-radius:10px;
+    border-color: darkgrey;
+    width:300px;
+    box-shadow:0 0 15px 4px rgba(0,0,0,0.06);
+
+}
+
+.login button {
+    padding:8px;
+    margin-left: 20px;
+    margin-bottom: 15px;
+    appearance: none;
+    border: 0;
+    border-radius: 10px;
+    background: #2980B9;
+    color: #fff;
+    font-size: 14px;
+    width: 300px;
+
+}

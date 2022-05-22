@@ -1,0 +1,46 @@
+.documetsstyle {
+    display: grid;
+    grid-template-rows: 1fr 1 fr;
+    grid-template-columns:  1fr  ;
+    grid-gap: 3px;
+    line-height: 1.4;
+
+
+}
+
+.group {
+    font-size: 18pt;
+
+}
+
+
+.item {
+    font-size: 14pt;
+}
+
+
+.banner {
+    background-color: #ECF0F1;
+    height: 80px;
+    font-size: 25pt;
+}
+
+.documetsstyle a {
+    color: #0067a5;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0067a5;
+
+}
+
+.documetsstyle a:hover {
+    color: #0067a5;
+    text-decoration: underline;
+}
+
+a:active {
+    color: #0067a5;
+
+}
